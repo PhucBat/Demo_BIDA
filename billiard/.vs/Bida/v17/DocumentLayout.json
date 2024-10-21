@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida.dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|solutionrelative:bida.dao\\nhanviendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|c:\\users\\dimon\\desktop\\quanlybida\\quanlybida\\billiard\\bida.dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|solutionrelative:bida.dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|c:\\users\\dimon\\desktop\\quanlybida\\quanlybida\\billiard\\qlhs.dto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|solutionrelative:qlhs.dto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|c:\\users\\dimon\\desktop\\quanlybida\\quanlybida\\billiard\\bida.dao\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|solutionrelative:bida.dao\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|c:\\users\\dimon\\desktop\\quanlybida\\quanlybida\\billiard\\bida.bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|solutionrelative:bida.bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|c:\\users\\dimon\\desktop\\quanlybida\\quanlybida\\billiard\\bida\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida\\frmcreateban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmcreateban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida\\frmchuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmchuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida.dao\\bandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|solutionrelative:bida.dao\\bandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida.bus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|solutionrelative:bida.bus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida\\frmbienlai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmbienlai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida.bus\\bienlaibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|solutionrelative:bida.bus\\bienlaibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida.bus\\banbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|solutionrelative:bida.bus\\banbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida.dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|solutionrelative:bida.dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|c:\\users\\dimon\\desktop\\quanlybida\\quanlybida\\billiard\\bida.bus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|solutionrelative:bida.bus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\qlhs.dto\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|solutionrelative:qlhs.dto\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida.dao\\bienlaidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|solutionrelative:bida.dao\\bienlaidao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\qlhs.dto\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|solutionrelative:qlhs.dto\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\bida\\frmban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "Bida.DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\DataProvider.cs",
+              "RelativeToolTip": "Bida.DAO\\DataProvider.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:30:52.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\app.config",
+              "RelativeDocumentMoniker": "Bida.DAO\\app.config",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\app.config",
+              "RelativeToolTip": "Bida.DAO\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-21T09:29:57.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\QLHS.DTO\\App.config",
+              "RelativeDocumentMoniker": "QLHS.DTO\\App.config",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\QLHS.DTO\\App.config",
+              "RelativeToolTip": "QLHS.DTO\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-21T09:29:49.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhachHangBUS.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.BUS\\KhachHangBUS.cs",
+              "RelativeDocumentMoniker": "Bida.BUS\\KhachHangBUS.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.BUS\\KhachHangBUS.cs",
+              "RelativeToolTip": "Bida.BUS\\KhachHangBUS.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:46:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmBienLai.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmBienLai.cs",
+              "RelativeDocumentMoniker": "Bida\\frmBienLai.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmBienLai.cs",
+              "RelativeToolTip": "Bida\\frmBienLai.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:47.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\NhanVienDAO.cs",
+              "RelativeDocumentMoniker": "Bida.DAO\\NhanVienDAO.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\NhanVienDAO.cs",
+              "RelativeToolTip": "Bida.DAO\\NhanVienDAO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA9wBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:19.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.BUS\\App.config",
+              "RelativeDocumentMoniker": "Bida.BUS\\App.config",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.BUS\\App.config",
+              "RelativeToolTip": "Bida.BUS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-21T09:30:05.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\App.config",
+              "RelativeDocumentMoniker": "Bida\\App.config",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\App.config",
+              "RelativeToolTip": "Bida\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-21T09:30:12.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmMain.cs",
+              "RelativeDocumentMoniker": "Bida\\frmMain.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmMain.cs",
+              "RelativeToolTip": "Bida\\frmMain.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAcwH8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:40:22.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmChuyen.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmChuyen.cs",
+              "RelativeDocumentMoniker": "Bida\\frmChuyen.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmChuyen.cs",
+              "RelativeToolTip": "Bida\\frmChuyen.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAcwIoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmBan.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmBan.cs",
+              "RelativeDocumentMoniker": "Bida\\frmBan.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmBan.cs",
+              "RelativeToolTip": "Bida\\frmBan.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwEsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:40.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAdd.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmAdd.cs",
+              "RelativeDocumentMoniker": "Bida\\frmAdd.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmAdd.cs",
+              "RelativeToolTip": "Bida\\frmAdd.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:01:55.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCreateBan.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmCreateBan.cs",
+              "RelativeDocumentMoniker": "Bida\\frmCreateBan.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmCreateBan.cs",
+              "RelativeToolTip": "Bida\\frmCreateBan.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwEMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:51.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BanDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\BanDAO.cs",
+              "RelativeDocumentMoniker": "Bida.DAO\\BanDAO.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\BanDAO.cs",
+              "RelativeToolTip": "Bida.DAO\\BanDAO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:34:33.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BienLaiBUS.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.BUS\\BienLaiBUS.cs",
+              "RelativeDocumentMoniker": "Bida.BUS\\BienLaiBUS.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.BUS\\BienLaiBUS.cs",
+              "RelativeToolTip": "Bida.BUS\\BienLaiBUS.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:46:28.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BanBUS.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.BUS\\BanBUS.cs",
+              "RelativeDocumentMoniker": "Bida.BUS\\BanBUS.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.BUS\\BanBUS.cs",
+              "RelativeToolTip": "Bida.BUS\\BanBUS.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:22.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KhachHangDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\KhachHangDAO.cs",
+              "RelativeDocumentMoniker": "Bida.DAO\\KhachHangDAO.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\KhachHangDAO.cs",
+              "RelativeToolTip": "Bida.DAO\\KhachHangDAO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:01:10.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NhanVienBUS.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.BUS\\NhanVienBUS.cs",
+              "RelativeDocumentMoniker": "Bida.BUS\\NhanVienBUS.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.BUS\\NhanVienBUS.cs",
+              "RelativeToolTip": "Bida.BUS\\NhanVienBUS.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:29.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Bida\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmLogin.cs",
+              "RelativeToolTip": "Bida\\frmLogin.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:22:22.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BAN.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\QLHS.DTO\\BAN.cs",
+              "RelativeDocumentMoniker": "QLHS.DTO\\BAN.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\QLHS.DTO\\BAN.cs",
+              "RelativeToolTip": "QLHS.DTO\\BAN.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:45:22.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BienLaiDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\BienLaiDAO.cs",
+              "RelativeDocumentMoniker": "Bida.DAO\\BienLaiDAO.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida.DAO\\BienLaiDAO.cs",
+              "RelativeToolTip": "Bida.DAO\\BienLaiDAO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:40:50.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NHANVIEN.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\QLHS.DTO\\NHANVIEN.cs",
+              "RelativeDocumentMoniker": "QLHS.DTO\\NHANVIEN.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\QLHS.DTO\\NHANVIEN.cs",
+              "RelativeToolTip": "QLHS.DTO\\NHANVIEN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:49:13.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmBan.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmBan.Designer.cs",
+              "RelativeDocumentMoniker": "Bida\\frmBan.Designer.cs",
+              "ToolTip": "C:\\Users\\DIMON\\Desktop\\QuanLyBida\\QuanLyBida\\billiard\\Bida\\frmBan.Designer.cs",
+              "RelativeToolTip": "Bida\\frmBan.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAcwHgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:26:45.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
